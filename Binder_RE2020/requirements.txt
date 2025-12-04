@@ -1,6 +1,1 @@
 voila
-ipywidgets
-IPython
-matplotlib
-seaborn
-numpy
